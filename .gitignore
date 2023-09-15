@@ -1,3 +1,4 @@
+/bootstrap/ssr
 /node_modules
 /public/hot
 /public/storage
@@ -13,3 +14,8 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+
+/public/upload
+/bootstrap/ssr
+stats-analyze.html
+
